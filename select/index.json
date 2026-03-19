@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "やだ。 (2021 ver.)",
+  "base_artist": "たかやん",
+  "createdAt": "2026-03-19T19:05:02.663983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やだ!",
+      "artist": "ララ・サタリン・デビルーク(戸松 遥)",
+      "has_synced": true,
+      "path": "select/01_やだ!_ララ・サタリン・デビルーク(戸松_遥).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やだ!",
+      "artist": "ララ (戸松遥)",
+      "has_synced": true,
+      "path": "select/02_やだ!_ララ_(戸松遥).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やだ。",
+      "artist": "takayan",
+      "has_synced": false,
+      "path": "select/03_やだ。_takayan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やだ！",
+      "artist": "ララ・サタリン・デビルーク(戸松遥)",
+      "has_synced": true,
+      "path": "select/04_やだ!_ララ・サタリン・デビルーク(戸松遥).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やだ。",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/05_やだ。_たかやん.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やだ。 (2021 ver.)",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/06_やだ。_(2021_ver.)_たかやん.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やだ(･∀･)",
+      "artist": "takayan",
+      "has_synced": false,
+      "path": "select/07_やだ(・∀・)_takayan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "10.ビデオ撮影～「中は、やめ、い、イヤぁ！やだ、やだ、そと、外に、外に出して！」★",
+      "artist": "かーばんくる",
+      "has_synced": true,
+      "path": "select/08_10.ビデオ撮影~「中は、やめ、い、イヤぁ!やだ、やだ、そと、外に、外に出して!」★_かーばんくる.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "01_「やだ、無理だってば…んぐっ、これ以上は入らないって」生意気JKにわかせ強制イマラチオ",
+      "artist": "えくすたシティ",
+      "has_synced": true,
+      "path": "select/09_01_「やだ、無理だってば...んぐっ、これ以上は入らないって」生意気JKにわかせ強制イマラチオ_えくすたシティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やだ。",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/pl_01_やだ。_たかやん.txt"
+    }
+  ]
+}
